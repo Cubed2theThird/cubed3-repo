@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.cubedprojects" version="1.0.1" name="Cubed3 projects repository" provider-name="Cubed3">
-	
+<addon id="repository.cubedprojects" version="1.2.1" name="Cubed3 projects repository" provider-name="Cubed3">	
 	<extension point="xbmc.addon.repository" name="Cubed3 projects repository">
 		<info compressed="false">https://raw.githubusercontent.com/Cubed2theThird/cubed3-repo/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/Cubed2theThird/cubed3-repo/master/addons.xml.md5</checksum>
