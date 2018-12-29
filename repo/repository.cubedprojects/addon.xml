@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.cubedprojects" version="1.0.0" name="Cubed3 projects repository" provider-name="Cubed3">
+	
+	<extension point="xbmc.addon.repository" name="Cubed3 projects repository">
+		<info compressed="false">https://github.com/Cubed2theThird/cubed3-repo/master/addons.xml</info>
+		<checksum>https://github.com/Cubed2theThird/cubed3-repo/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://github.com/Cubed2theThird/cubed3-repo/master/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Cubed3 Projects</summary>
+		<description lang="en">Download and Install Cubed3 Projects</description>
+		<platform>all</platform>
+	</extension>
+</addon>
