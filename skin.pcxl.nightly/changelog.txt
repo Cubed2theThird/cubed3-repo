@@ -1,6 +1,13 @@
 # skin.pcxl
 
-### **1.5.5.3**
+### **1.5.5.4**
+- Fix TV Layout
+- Fixed UI
+- Updated Notifications
+- Updated Favourites
+- Updated UI Elements
+
+#### 1.5.5.3
 - Updated Layouts (TV, Kiosk)
 
 #### 1.5.5.2
